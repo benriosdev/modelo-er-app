@@ -7,44 +7,15 @@ Features
 
 Responsive design optimized for desktop, tablet, and mobile devices
 
-Embedded video tutorials from top educational channels
+- Embedded video tutorials from top educational channels
 
-Practical examples with real-world database scenarios (library, e-commerce)
+- Practical examples with real-world database scenarios (library, e-commerce)
 
-8+ online tools for creating E-R diagrams with direct links
+- 8+ online tools for creating E-R diagrams with direct links
 
-AI integration section exploring how artificial intelligence transforms database management
+- AI integration section exploring how artificial intelligence transforms database management
 
-Free course resources and educational materials in Spanish
-
-Modern card-based UI with smooth animations and hover effects
-
-Topics Covered
-Introduction & Purpose
-
-What is the E-R Model?
-
-Entities & Attributes
-
-Relationships & Cardinality
-
-E-R Diagrams
-
-Extended E-R Model
-
-Construction Guide
-
-Practical Example: Store System
-
-Step-by-step Diagram Creation
-
-Video Tutorials
-
-Podcasts & Educational Videos
-
-Useful Links & Resources
-
-Databases & Artificial Intelligence
+*Free course resources and educational materials in Spanish*
 
 Tech Stack
 Pure HTML5, CSS3, and JavaScript
