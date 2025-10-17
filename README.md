@@ -1,5 +1,5 @@
 # modelo-er-app
-Entity-Relationship Model Learning App
+Entity-Relationship Model Learning App / Using Perplexity IA / Prompts and dev
 A comprehensive web application designed to teach database modeling fundamentals through the Entity-Relationship (E-R) model. Built with modern HTML, CSS, and JavaScript to provide an interactive learning experience.
 
 Features
